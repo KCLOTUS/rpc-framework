@@ -1,7 +1,6 @@
 package framework;
 
 import org.apache.commons.lang3.reflect.MethodUtils;
-import sun.reflect.misc.MethodUtil;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
@@ -13,7 +12,7 @@ import java.util.concurrent.Executors;
 /**
  * 服务的发布
  *
- * @author bfy
+ * @author flytoyou
  * @version 1.0.0
  */
 public class ProviderReflect {

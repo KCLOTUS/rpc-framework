@@ -3,7 +3,7 @@ package service;
 /**
  * 服务接口定义
  *
- * @author bfy
+ * @author flytoyou
  * @version 1.0.1
  */
 public interface HelloService {

@@ -4,7 +4,7 @@ package service;
 /**
  * 远程服务接口实现
  *
- * @author bfy
+ * @author flytoyou
  * @version 1.0.0
  *
  */

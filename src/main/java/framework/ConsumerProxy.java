@@ -9,7 +9,7 @@ import java.net.Socket;
 
 /**
  * 代理
- * @author bfy
+ * @author flytoyou
  * @version 1.0.0
  */
 public class ConsumerProxy {
